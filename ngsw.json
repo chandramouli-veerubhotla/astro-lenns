@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1766850137969,
+  "index": "/astro-lenns/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/astro-lenns/chunk-4QPFTE7O.js",
+        "/astro-lenns/chunk-5TBQOPJN.js",
+        "/astro-lenns/chunk-ESC52WEI.js",
+        "/astro-lenns/chunk-GNX2LW7O.js",
+        "/astro-lenns/chunk-PEYOEGOP.js",
+        "/astro-lenns/chunk-ZCBN7BYE.js",
+        "/astro-lenns/favicon.ico",
+        "/astro-lenns/index.html",
+        "/astro-lenns/main-GG3HUGIL.js",
+        "/astro-lenns/manifest.webmanifest",
+        "/astro-lenns/styles-6YA7XK53.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/astro-lenns/01.jpg",
+        "/astro-lenns/User_03.svg",
+        "/astro-lenns/Vector.svg",
+        "/astro-lenns/icons/icon-128x128.png",
+        "/astro-lenns/icons/icon-144x144.png",
+        "/astro-lenns/icons/icon-152x152.png",
+        "/astro-lenns/icons/icon-192x192.png",
+        "/astro-lenns/icons/icon-384x384.png",
+        "/astro-lenns/icons/icon-512x512.png",
+        "/astro-lenns/icons/icon-72x72.png",
+        "/astro-lenns/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/astro-lenns/01.jpg": "15fe678d582ef29d761c10c10ccdf0543624922d",
+    "/astro-lenns/User_03.svg": "7cbce337f430ffd794f22839cbec158ee52aea9f",
+    "/astro-lenns/Vector.svg": "607bada78d8a2e41d0dfc10a5ace65f3fbcceae9",
+    "/astro-lenns/chunk-4QPFTE7O.js": "57b92f54a30b0a47244db3847a5361f8d29ce0b4",
+    "/astro-lenns/chunk-5TBQOPJN.js": "61a3cbb4b290ea3b87b40fd7e65e1f3e7bb68389",
+    "/astro-lenns/chunk-ESC52WEI.js": "4e62d9e65f296e6f072b855ba0be34d1eb8fcfd1",
+    "/astro-lenns/chunk-GNX2LW7O.js": "54fcf1eb710e35d390aa24a0b210740656d9c569",
+    "/astro-lenns/chunk-PEYOEGOP.js": "fd90f5c821b598d5b70319937b6b201177cbd61b",
+    "/astro-lenns/chunk-ZCBN7BYE.js": "7633dbc30d8e7301372e389fe9ac0d9efbd1e5de",
+    "/astro-lenns/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/astro-lenns/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/astro-lenns/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/astro-lenns/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/astro-lenns/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/astro-lenns/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/astro-lenns/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/astro-lenns/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/astro-lenns/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/astro-lenns/index.html": "b72e1dc28569fb8a00597b280be7973c80f0d63f",
+    "/astro-lenns/main-GG3HUGIL.js": "d391ffa2ddf4dc6a36950389c3fc2551cc1e83b2",
+    "/astro-lenns/manifest.webmanifest": "d848f06c66e23a0a0daec8b0d165bfbaf81882b8",
+    "/astro-lenns/styles-6YA7XK53.css": "e42545ab91137a73d38194df62449dadef40ee53"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
